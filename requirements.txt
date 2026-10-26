@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy
+openpyxl
+matplotlib
+pillow
+pyarrow
+xlrd
+fastapi
+uvicorn
+python-multipart
